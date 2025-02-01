@@ -1,129 +1,140 @@
-Below is an updated modular garden plan that now includes sun exposure preferences, watering guidelines, and soil fertility tips for each module. Since all modules are grown on raised, wheeled beds or containers, these notes will help you adjust care routines and even reposition beds to best match seasonal sun angles.
+Below is your modular garden plan—with sun/shade and water/dry tolerance notes added for each crop. All modules are designed for raised, wheeled beds or containers outfitted with deep water reservoirs and wicking materials for a self-watering ecosystem. You can still adjust water delivery (or add drainage if needed) to suit the individual preferences noted below.
 
 ---
 
 ## Module A: Leafy Greens & Root Combo  
-**Primary Crops:**  
-- **Lettuce (Romaine & Iceberg) & Carrots**  
-- **Companions:** Chives and Parsley (planted along the edges)
+**Crops:** Lettuce (Romaine & Iceberg), Carrots, Chives, Parsley
 
-**Sun Exposure:**  
-- **Lettuce & Carrots:** Prefer full sun in cooler climates but can benefit from partial shade during hot afternoons.  
-- *Tip:* In warmer regions, consider repositioning the bed so that it receives morning sun and some shade in the hottest part of the day.
+- **Lettuce (Romaine & Iceberg):**  
+  - **Sun:** Performs best in full sun in cooler climates; in hotter regions, benefits from partial shade (morning sun with afternoon shade).  
+  - **Water:** Requires consistent moisture (moderately thirsty).  
 
-**Watering:**  
-- **Guideline:** Keep soil evenly moist. Raised beds and containers tend to dry out faster, so check moisture daily during peak heat.  
-- *Tip:* A deep watering (about 1–2 inches per week) early in the day helps maintain steady moisture without encouraging fungal diseases.
+- **Carrots:**  
+  - **Sun:** Thrive in full sun to light partial shade.  
+  - **Water:** Enjoy steady, even moisture—not drought tolerant.  
 
-**Soil Fertility:**  
-- **Maintenance:** Start with a nutrient-rich mix amended with well-rotted compost.  
-- *Tip:* Top-dress with compost every few weeks and use an organic, slow-release fertilizer mid-season to replenish nutrients. Mulching around plants can also help retain moisture and add organic matter as it breaks down.
+- **Chives:**  
+  - **Sun:** Prefer full sun.  
+  - **Water:** Do well with moderate moisture.
+
+- **Parsley:**  
+  - **Sun:** Adapts to full sun or partial shade.  
+  - **Water:** Prefers consistent moisture.
+
+*Note:* The self-watering system should maintain the steady moisture these crops need, but in very hot conditions consider adding a light afternoon shade for the lettuce.
 
 ---
 
 ## Module B: Sweet Potato & Herb Patch  
-**Primary Crop:**  
-- **Sweet Potatoes**
+**Crops:** Sweet Potatoes, Oregano, Thyme
 
-**Companions:**  
-- **Herbs:** Oregano & Thyme (low-growing companions that also suppress weeds)
+- **Sweet Potatoes:**  
+  - **Sun:** Require full sun for robust tuber development.  
+  - **Water:** Need consistent moisture (moderately thirsty) but ensure the soil isn’t waterlogged.
 
-**Sun Exposure:**  
-- **Sweet Potatoes:** Are true sun lovers and require full sun (at least 6–8 hours daily) for optimal tuber development.
+- **Oregano:**  
+  - **Sun:** Thrives in full sun.  
+  - **Water:** Drought tolerant—prefers a drier environment once established.
 
-**Watering:**  
-- **Guideline:** Water deeply and consistently to keep the soil evenly moist but not soggy.  
-- *Tip:* In containers, check daily during hot spells—sweet potatoes appreciate a regular moisture supply, especially in the heat.
+- **Thyme:**  
+  - **Sun:** Loves full sun.  
+  - **Water:** Very drought tolerant; does best in well-drained soils and can handle less moisture.
 
-**Soil Fertility:**  
-- **Maintenance:** Ensure the soil is light, well-draining, and enriched with organic matter.  
-- *Tip:* Mix compost into the soil at planting and replenish with additional compost or a balanced fertilizer mid-season. Using mulch can also help to conserve moisture and slowly release nutrients.
+*Tip:* Since sweet potatoes need regular moisture but oregano and thyme favor drier conditions, you may adjust the local watering around the herbs (or use a barrier) if you notice excess dampness around them.
 
 ---
 
 ## Module C: Vertical Green Bean Trellis  
-**Primary Crop:**  
-- **Green Beans**
+**Crops:** Green Beans, Rosemary, Parsley
 
-**Companions:**  
-- **Herbs:** Rosemary & Parsley placed at the base to help deter pests (avoid garlic and chives in this module).
+- **Green Beans:**  
+  - **Sun:** Need full sun for optimal growth.  
+  - **Water:** Are quite thirsty—demand consistent moisture.
 
-**Sun Exposure:**  
-- **Green Beans:** Thrive in full sun (minimum 6 hours daily) to encourage vigorous vine growth and flowering.
+- **Rosemary:**  
+  - **Sun:** Prefers full sun.  
+  - **Water:** Drought tolerant and thrives in well-drained soils.
 
-**Watering:**  
-- **Guideline:** Water consistently to maintain even moisture. Beans do best with deep, infrequent waterings rather than light, frequent sprays—especially in raised containers.  
-- *Tip:* During hot, dry periods, consider supplementing with an extra watering to prevent stress.
+- **Parsley:**  
+  - **Sun:** Grows well in full sun to partial shade.  
+  - **Water:** Requires regular moisture.
 
-**Soil Fertility:**  
-- **Maintenance:** Although beans fix nitrogen, they still benefit from fertile, organic-rich soil.  
-- *Tip:* Work compost into the soil before planting and side-dress with compost or compost tea mid-season. A light mulch can help maintain consistent moisture levels.
+*Tip:* The self-watering system is ideal here for the thirsty green beans, while rosemary’s drought tolerance means it’s forgiving if the moisture is slightly higher than its preferred level.
 
 ---
 
 ## Module D: Container Yellow Squash  
-**Primary Crop:**  
-- **Yellow Squash**
+**Crop:** Yellow Squash
 
-**Sun Exposure:**  
-- **Yellow Squash:** Require full sun (6–8 hours of direct sunlight daily) to develop robust fruit production.
+- **Yellow Squash:**  
+  - **Sun:** Demands full sun (at least 6–8 hours daily).  
+  - **Water:** Very thirsty—requires ample, consistent moisture.
 
-**Watering:**  
-- **Guideline:** Squash in containers need regular, frequent watering—especially during the summer heat—to prevent the soil from drying out.  
-- *Tip:* Water early in the day, and ensure good drainage in your container to avoid waterlogging.
+- **Trellising:** Use a trellis to train the vines vertically, which also improves air circulation and sun exposure.
 
-**Soil Fertility:**  
-- **Maintenance:** Squash are heavy feeders. Begin with a nutrient-dense potting mix enriched with compost.  
-- *Tip:* At planting, incorporate a balanced fertilizer, then top-dress with compost periodically throughout the growing season. Consider using organic liquid fertilizers every few weeks to maintain vigor.
+*Note:* Monitor the container’s water levels to ensure that this water-hungry plant gets plenty of moisture without becoming waterlogged.
 
 ---
 
 ## Module E: Broccoli & Companion Herbs  
-**Primary Crop:**  
-- **Broccoli**
+**Crops:** Broccoli, Thyme, Rosemary, Oregano, (Optional: Parsley)
 
-**Companions:**  
-- **Herbs:** Thyme, Rosemary, and Oregano (which help deter pests); optional parsley along the borders.
+- **Broccoli:**  
+  - **Sun:** Prefers full sun to partial shade (partial shade can help in very hot climates).  
+  - **Water:** Needs consistent moisture (moderately thirsty).
 
-**Sun Exposure:**  
-- **Broccoli:** Grows best in full sun during cool seasons; in warmer climates, it can benefit from partial shade to prevent premature bolting.  
-- *Tip:* Adjust bed placement seasonally to ensure broccoli isn’t exposed to excessive heat.
+- **Thyme:**  
+  - **Sun:** Thrives in full sun.  
+  - **Water:** Drought tolerant.
 
-**Watering:**  
-- **Guideline:** Maintain consistent moisture with deep waterings (aim for about 1–2 inches per week) to keep broccoli healthy.  
-- *Tip:* Use a soaker hose or drip irrigation to reduce evaporation from raised beds.
+- **Rosemary:**  
+  - **Sun:** Loves full sun.  
+  - **Water:** Very drought tolerant.
 
-**Soil Fertility:**  
-- **Maintenance:** Broccoli is a heavy feeder—rich, well-amended soil is key.  
-- *Tip:* Prior to planting, work plenty of compost and a balanced, nitrogen-rich fertilizer into the soil. Mulching helps retain moisture and add organic matter as it breaks down. Consider a mid-season top dressing of compost for a nutrient boost.
+- **Oregano:**  
+  - **Sun:** Prefers full sun.  
+  - **Water:** Drought tolerant once established.
 
----
+- **Parsley (Optional):**  
+  - **Sun:** Adapts to full sun or partial shade.  
+  - **Water:** Requires consistent moisture.
 
-## Module F: Pepper Patch (Bell & Other Peppers)  
-**Primary Crops:**  
-- **Bell Peppers and Other Pepper Varieties**
-
-**Companions:**  
-- **Herbs:** Basil (including Dark Opal), Oregano, Parsley, and optionally Chives and Garlic in moderation.
-
-**Sun Exposure:**  
-- **Peppers:** Are sun enthusiasts and require full sun (at least 6–8 hours daily) for best fruit production.
-
-**Watering:**  
-- **Guideline:** Peppers need regular, consistent watering to keep the soil moist but not overly wet—especially important in raised, mobile beds.  
-- *Tip:* Deep water once or twice a week, with additional light waterings during particularly hot spells, and monitor container moisture closely.
-
-**Soil Fertility:**  
-- **Maintenance:** Peppers perform best in nutrient-rich, well-draining soil.  
-- *Tip:* Start with a well-composted soil mix and supplement with a balanced fertilizer at planting. Top-dress with compost during the growing season and use mulch to reduce evaporation and add organic material as it decomposes.
+*Tip:* The mix here creates a balance: broccoli needs regular water while the herbs (thyme, rosemary, oregano) enjoy a drier spot—just keep an eye on moisture levels near the base of broccoli plants.
 
 ---
 
-## General Maintenance Tips for Raised, Wheeled Beds & Containers
+## Module F: Pepper Patch  
+**Crops:** Bell Peppers & Other Peppers, Basil (including Dark Opal), Oregano, Parsley, (Optional: Chives, Garlic)
 
-- **Mobility Advantage:** Use the wheeled feature to reposition modules during the season. For example, move heat-sensitive crops (like lettuce and broccoli) into partial shade during the hottest parts of the year.
-- **Regular Soil Testing:** A quick soil test each season can help you adjust fertilizer applications to maintain optimal pH and nutrient levels.
-- **Mulching:** Across all modules, organic mulches (straw, shredded leaves, or compost) will help retain moisture, suppress weeds, and slowly improve soil fertility.
-- **Compost & Organic Matter:** Periodically replenish organic matter in each bed. A light top-dressing of compost not only adds nutrients but also improves soil structure and water retention in raised beds.
+- **Peppers (Bell & Other Varieties):**  
+  - **Sun:** Require full sun for best fruit production.  
+  - **Water:** Need consistent moisture (moderately thirsty).
 
-This comprehensive plan should help you optimize sun exposure, watering, and soil fertility for each of your garden modules. Happy gardening!
+- **Basil (including Dark Opal):**  
+  - **Sun:** Loves full sun.  
+  - **Water:** Thirsty—needs regular watering.
+
+- **Oregano:**  
+  - **Sun:** Prefers full sun.  
+  - **Water:** Drought tolerant; thrives with less water once established.
+
+- **Parsley:**  
+  - **Sun:** Grows well in full sun to partial shade.  
+  - **Water:** Prefers consistent moisture.
+
+- **Chives (Optional):**  
+  - **Sun:** Best in full sun.  
+  - **Water:** Do well with moderate moisture.
+
+- **Garlic (Optional):**  
+  - **Sun:** Requires full sun.  
+  - **Water:** Prefers moderate moisture with good drainage.
+
+*Tip:* Adjust watering around the oregano to prevent it from becoming too wet while still satisfying the more moisture-needy basil and peppers.
+
+---
+
+### General Considerations  
+- **Sun Exposure:** Most vegetables here thrive in full sun, though some (like lettuce and broccoli) can benefit from partial shade in extremely hot climates.  
+- **Water Needs:** The self-watering system is excellent for maintaining consistent moisture for thirsty crops (like green beans, yellow squash, basil, and peppers), while the drier-tolerant herbs (oregano, thyme, rosemary) can handle slightly less water.  
+- **Balancing Microenvironments:** When planting together in a self-watering module, consider the natural water needs of each plant; slight adjustments or physical barriers can help prevent overwatering for drought-tolerant herbs.
