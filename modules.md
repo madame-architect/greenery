@@ -1,96 +1,129 @@
-Below is a sample modular garden plan that lets you “mix‐and‐match” your vegetables in small, defined spaces. Each module is designed to encourage beneficial companion interactions while keeping things compact and easy to manage. Feel free to adjust dimensions (raised beds, containers, or designated ground plots) to suit your available space!
+Below is an updated modular garden plan that now includes sun exposure preferences, watering guidelines, and soil fertility tips for each module. Since all modules are grown on raised, wheeled beds or containers, these notes will help you adjust care routines and even reposition beds to best match seasonal sun angles.
 
 ---
 
-## Module Overview
-
-### **Module A: Leafy Greens & Root Combo**  
+## Module A: Leafy Greens & Root Combo  
 **Primary Crops:**  
-- **Lettuce** (Romaine & Iceberg)
+- **Lettuce (Romaine & Iceberg) & Carrots**  
+- **Companions:** Chives and Parsley (planted along the edges)
+
+**Sun Exposure:**  
+- **Lettuce & Carrots:** Prefer full sun in cooler climates but can benefit from partial shade during hot afternoons.  
+- *Tip:* In warmer regions, consider repositioning the bed so that it receives morning sun and some shade in the hottest part of the day.
+
+**Watering:**  
+- **Guideline:** Keep soil evenly moist. Raised beds and containers tend to dry out faster, so check moisture daily during peak heat.  
+- *Tip:* A deep watering (about 1–2 inches per week) early in the day helps maintain steady moisture without encouraging fungal diseases.
+
+**Soil Fertility:**  
+- **Maintenance:** Start with a nutrient-rich mix amended with well-rotted compost.  
+- *Tip:* Top-dress with compost every few weeks and use an organic, slow-release fertilizer mid-season to replenish nutrients. Mulching around plants can also help retain moisture and add organic matter as it breaks down.
+
+---
+
+## Module B: Sweet Potato & Herb Patch  
+**Primary Crop:**  
+- **Sweet Potatoes**
 
 **Companions:**  
-- **Carrots:** Sown in the gaps between lettuce to help break up compacted soil.  
-- **Edge Herbs:** Chives and Parsley planted along the perimeter help repel pests while lending a nice aromatic boost.
+- **Herbs:** Oregano & Thyme (low-growing companions that also suppress weeds)
 
-**Design Tips:**  
-- Use a 4×4-foot raised bed or container.  
-- Ensure even spacing so that lettuce gets enough sunlight while carrots can develop freely.
+**Sun Exposure:**  
+- **Sweet Potatoes:** Are true sun lovers and require full sun (at least 6–8 hours daily) for optimal tuber development.
+
+**Watering:**  
+- **Guideline:** Water deeply and consistently to keep the soil evenly moist but not soggy.  
+- *Tip:* In containers, check daily during hot spells—sweet potatoes appreciate a regular moisture supply, especially in the heat.
+
+**Soil Fertility:**  
+- **Maintenance:** Ensure the soil is light, well-draining, and enriched with organic matter.  
+- *Tip:* Mix compost into the soil at planting and replenish with additional compost or a balanced fertilizer mid-season. Using mulch can also help to conserve moisture and slowly release nutrients.
 
 ---
 
-### **Module B: Sweet Potato & Herb Patch**  
+## Module C: Vertical Green Bean Trellis  
 **Primary Crop:**  
-- **Sweet Potatoes:** Plant densely on the ground (or in a large container if preferred) to allow vines to spread.
+- **Green Beans**
 
 **Companions:**  
-- **Oregano & Thyme:** These low-growing, ground-hugging herbs not only help suppress weeds but also deter pests that might be attracted to sweet potatoes.
+- **Herbs:** Rosemary & Parsley placed at the base to help deter pests (avoid garlic and chives in this module).
 
-**Design Tips:**  
-- Consider a deep container or dedicated garden bed where the tubers have plenty of room to spread.  
-- Provide a light mulch to retain moisture and reduce weeds.
+**Sun Exposure:**  
+- **Green Beans:** Thrive in full sun (minimum 6 hours daily) to encourage vigorous vine growth and flowering.
+
+**Watering:**  
+- **Guideline:** Water consistently to maintain even moisture. Beans do best with deep, infrequent waterings rather than light, frequent sprays—especially in raised containers.  
+- *Tip:* During hot, dry periods, consider supplementing with an extra watering to prevent stress.
+
+**Soil Fertility:**  
+- **Maintenance:** Although beans fix nitrogen, they still benefit from fertile, organic-rich soil.  
+- *Tip:* Work compost into the soil before planting and side-dress with compost or compost tea mid-season. A light mulch can help maintain consistent moisture levels.
 
 ---
 
-### **Module C: Vertical Green Bean Trellis**  
+## Module D: Container Yellow Squash  
 **Primary Crop:**  
-- **Green Beans:** Grow these vertically using a sturdy trellis for support.
+- **Yellow Squash**
+
+**Sun Exposure:**  
+- **Yellow Squash:** Require full sun (6–8 hours of direct sunlight daily) to develop robust fruit production.
+
+**Watering:**  
+- **Guideline:** Squash in containers need regular, frequent watering—especially during the summer heat—to prevent the soil from drying out.  
+- *Tip:* Water early in the day, and ensure good drainage in your container to avoid waterlogging.
+
+**Soil Fertility:**  
+- **Maintenance:** Squash are heavy feeders. Begin with a nutrient-dense potting mix enriched with compost.  
+- *Tip:* At planting, incorporate a balanced fertilizer, then top-dress with compost periodically throughout the growing season. Consider using organic liquid fertilizers every few weeks to maintain vigor.
+
+---
+
+## Module E: Broccoli & Companion Herbs  
+**Primary Crop:**  
+- **Broccoli**
 
 **Companions:**  
-- **Rosemary & Parsley:** These herbs placed at the base can improve flavor and ward off bean pests.  
-- **Avoid:** Garlic and chives in this module, as they can inhibit bean growth.
+- **Herbs:** Thyme, Rosemary, and Oregano (which help deter pests); optional parsley along the borders.
 
-**Design Tips:**  
-- Use a tall, narrow bed or container with an integrated trellis.  
-- Maintain consistent watering to keep the vines healthy.
+**Sun Exposure:**  
+- **Broccoli:** Grows best in full sun during cool seasons; in warmer climates, it can benefit from partial shade to prevent premature bolting.  
+- *Tip:* Adjust bed placement seasonally to ensure broccoli isn’t exposed to excessive heat.
 
----
+**Watering:**  
+- **Guideline:** Maintain consistent moisture with deep waterings (aim for about 1–2 inches per week) to keep broccoli healthy.  
+- *Tip:* Use a soaker hose or drip irrigation to reduce evaporation from raised beds.
 
-### **Module D: Container Yellow Squash**  
-**Primary Crop:**  
-- **Yellow Squash:** Grow these in a container where you can train the vines vertically with a trellis.
-
-**Design Tips:**  
-- Choose a container with good drainage and ample space for the vines to climb.  
-- Regularly check the trellis to guide the growth and prevent sprawling.
+**Soil Fertility:**  
+- **Maintenance:** Broccoli is a heavy feeder—rich, well-amended soil is key.  
+- *Tip:* Prior to planting, work plenty of compost and a balanced, nitrogen-rich fertilizer into the soil. Mulching helps retain moisture and add organic matter as it breaks down. Consider a mid-season top dressing of compost for a nutrient boost.
 
 ---
 
-### **Module E: Broccoli & Companion Herbs**  
-**Primary Crop:**  
-- **Broccoli:** Best grown in cooler conditions, so plan for partial shade if needed.
-
-**Companions:**  
-- **Herbs such as Thyme, Rosemary, and Oregano:** These aromatic herbs can help repel common broccoli pests.  
-- **Optional Edge:** Parsley may also be interplanted along the borders.
-
-**Design Tips:**  
-- Space broccoli plants about 18–24 inches apart.  
-- A 4×4-foot bed works well—just be sure to give each plant room to mature.
-
----
-
-### **Module F: Pepper Patch (Bell & Other Peppers)**  
+## Module F: Pepper Patch (Bell & Other Peppers)  
 **Primary Crops:**  
-- **Bell Peppers and Other Pepper Varieties:** Plant together since their cultural requirements are very similar.
+- **Bell Peppers and Other Pepper Varieties**
 
 **Companions:**  
-- **Basil (including Dark Opal):** Enhances flavor and repels pests.  
-- **Oregano & Parsley:** Useful border plants that improve overall plant health.  
-- **Optional:** Chives and Garlic can be added in moderation, but make sure they’re not too dense so as not to compete for nutrients.
+- **Herbs:** Basil (including Dark Opal), Oregano, Parsley, and optionally Chives and Garlic in moderation.
 
-**Design Tips:**  
-- Use a raised bed or large container with full sun and well-draining soil.  
-- Space pepper plants about 18 inches apart to allow for air circulation and growth.
+**Sun Exposure:**  
+- **Peppers:** Are sun enthusiasts and require full sun (at least 6–8 hours daily) for best fruit production.
 
----
+**Watering:**  
+- **Guideline:** Peppers need regular, consistent watering to keep the soil moist but not overly wet—especially important in raised, mobile beds.  
+- *Tip:* Deep water once or twice a week, with additional light waterings during particularly hot spells, and monitor container moisture closely.
 
-## Additional General Tips
-
-- **Sun & Soil:** All modules should be positioned so that sun-loving crops (peppers, squash, and beans) receive full sun, while cooler-season crops (broccoli and leafy greens) can benefit from partial afternoon shade if necessary.
-- **Rotation & Maintenance:** With a modular system, you can rotate modules seasonally to help manage soil fertility and reduce pest buildup.
-- **Watering:** Use a consistent watering schedule—containers may require more frequent watering than ground beds.
-- **Inter-module Interaction:** If you have pathways between modules, consider planting pest-repelling herbs (like rosemary or extra basil) in those strips to further protect your crops.
+**Soil Fertility:**  
+- **Maintenance:** Peppers perform best in nutrient-rich, well-draining soil.  
+- *Tip:* Start with a well-composted soil mix and supplement with a balanced fertilizer at planting. Top-dress with compost during the growing season and use mulch to reduce evaporation and add organic material as it decomposes.
 
 ---
 
-This modular design allows you to grow your veggies in a systematic way, keeping companion plants nearby to enhance growth, repel pests, and maximize your garden’s productivity. Enjoy planning and planting your garden!
+## General Maintenance Tips for Raised, Wheeled Beds & Containers
+
+- **Mobility Advantage:** Use the wheeled feature to reposition modules during the season. For example, move heat-sensitive crops (like lettuce and broccoli) into partial shade during the hottest parts of the year.
+- **Regular Soil Testing:** A quick soil test each season can help you adjust fertilizer applications to maintain optimal pH and nutrient levels.
+- **Mulching:** Across all modules, organic mulches (straw, shredded leaves, or compost) will help retain moisture, suppress weeds, and slowly improve soil fertility.
+- **Compost & Organic Matter:** Periodically replenish organic matter in each bed. A light top-dressing of compost not only adds nutrients but also improves soil structure and water retention in raised beds.
+
+This comprehensive plan should help you optimize sun exposure, watering, and soil fertility for each of your garden modules. Happy gardening!
